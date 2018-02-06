@@ -1,0 +1,11 @@
+{
+  "name": "poo-bot",
+  "version": "0.1.0",
+  "description": "Discord bot",
+  "main": "bot.js",
+  "author": "Bryan Burkett",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "opusscript": "0.0.6"
+  }
+}
